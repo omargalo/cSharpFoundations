@@ -20,6 +20,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnderstandingArrays", "Unde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "SimpleMethod\SimpleMethod.csproj", "{BE0A7428-BD36-4D72-B8DB-89434DA7B6BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethods", "HelperMethods\HelperMethods.csproj", "{360797ED-5EBE-43E9-9E1B-C9832C9E4BDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{BE0A7428-BD36-4D72-B8DB-89434DA7B6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE0A7428-BD36-4D72-B8DB-89434DA7B6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE0A7428-BD36-4D72-B8DB-89434DA7B6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360797ED-5EBE-43E9-9E1B-C9832C9E4BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360797ED-5EBE-43E9-9E1B-C9832C9E4BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360797ED-5EBE-43E9-9E1B-C9832C9E4BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360797ED-5EBE-43E9-9E1B-C9832C9E4BDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
