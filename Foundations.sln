@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "Under
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{3C1A431A-91E9-4706-A51F-8DF4445E6617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
