@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{02C449A6-4EE4-4596-B257-87671DDD172D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSubstrings", "WorkingWithSubstrings\WorkingWithSubstrings.csproj", "{B217981F-67D6-43C9-B2AA-96E31B1E6280}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{02C449A6-4EE4-4596-B257-87671DDD172D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02C449A6-4EE4-4596-B257-87671DDD172D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02C449A6-4EE4-4596-B257-87671DDD172D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B217981F-67D6-43C9-B2AA-96E31B1E6280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B217981F-67D6-43C9-B2AA-96E31B1E6280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B217981F-67D6-43C9-B2AA-96E31B1E6280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B217981F-67D6-43C9-B2AA-96E31B1E6280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
