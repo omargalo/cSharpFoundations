@@ -24,13 +24,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperMethods", "HelperMeth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileIteration", "WhileIteration\WhileIteration.csproj", "{C5D508A2-22A9-4C16-9B6B-14548B7A7816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{566BCB47-C202-4108-BCE5-07C7C0797597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{566BCB47-C202-4108-BCE5-07C7C0797597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{02C449A6-4EE4-4596-B257-87671DDD172D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{02C449A6-4EE4-4596-B257-87671DDD172D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSubstrings", "WorkingWithSubstrings\WorkingWithSubstrings.csproj", "{B217981F-67D6-43C9-B2AA-96E31B1E6280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSubstrings", "WorkingWithSubstrings\WorkingWithSubstrings.csproj", "{B217981F-67D6-43C9-B2AA-96E31B1E6280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStringBuilder", "WorkingWithStringBuilder\WorkingWithStringBuilder.csproj", "{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStringBuilder", "WorkingWithStringBuilder\WorkingWithStringBuilder.csproj", "{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClasses", "SimpleClasses\SimpleClasses.csproj", "{200C5699-D46C-412C-92A9-FBAD4B3E68AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200C5699-D46C-412C-92A9-FBAD4B3E68AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C5699-D46C-412C-92A9-FBAD4B3E68AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C5699-D46C-412C-92A9-FBAD4B3E68AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C5699-D46C-412C-92A9-FBAD4B3E68AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
