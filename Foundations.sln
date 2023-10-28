@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCodeClient", "MyCodeClien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{0585695B-1351-44B8-917F-8641657F8FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsAndSwitch", "EnumsAndSwitch\EnumsAndSwitch.csproj", "{74D616C1-2816-47A6-9756-5321C5365C33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{0585695B-1351-44B8-917F-8641657F8FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0585695B-1351-44B8-917F-8641657F8FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0585695B-1351-44B8-917F-8641657F8FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D616C1-2816-47A6-9756-5321C5365C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D616C1-2816-47A6-9756-5321C5365C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D616C1-2816-47A6-9756-5321C5365C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D616C1-2816-47A6-9756-5321C5365C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
