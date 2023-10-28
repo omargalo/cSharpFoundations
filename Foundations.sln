@@ -32,13 +32,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSubstrings", "Wo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStringBuilder", "WorkingWithStringBuilder\WorkingWithStringBuilder.csproj", "{3753E82E-CDAC-4CA8-BB58-C74FFBC33487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClasses", "SimpleClasses\SimpleClasses.csproj", "{200C5699-D46C-412C-92A9-FBAD4B3E68AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleClasses", "SimpleClasses\SimpleClasses.csproj", "{200C5699-D46C-412C-92A9-FBAD4B3E68AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{4AF238DB-B180-4640-A62C-B38E231D1B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{4AF238DB-B180-4640-A62C-B38E231D1B42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{4640E1AE-3F9F-4695-B50B-92345F5E4DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{3C1A431A-91E9-4706-A51F-8DF4445E6617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{3C1A431A-91E9-4706-A51F-8DF4445E6617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCodeLibrary", "MyCodeLibrary\MyCodeLibrary.csproj", "{7AF1F74E-D4F8-43EF-A4D6-457687C957C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCodeClient", "MyCodeClient\MyCodeClient.csproj", "{55B801D2-1576-47CB-A950-C6AF958A344D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +114,14 @@ Global
 		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C1A431A-91E9-4706-A51F-8DF4445E6617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF1F74E-D4F8-43EF-A4D6-457687C957C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF1F74E-D4F8-43EF-A4D6-457687C957C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF1F74E-D4F8-43EF-A4D6-457687C957C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF1F74E-D4F8-43EF-A4D6-457687C957C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B801D2-1576-47CB-A950-C6AF958A344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B801D2-1576-47CB-A950-C6AF958A344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B801D2-1576-47CB-A950-C6AF958A344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B801D2-1576-47CB-A950-C6AF958A344D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
