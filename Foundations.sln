@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFEvents", "WPFEvents\WPFEvents.csproj", "{C8D06472-0AC5-4CA9-B832-CCB0BE484874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{FC540D7D-52D4-485C-88F8-1666C282D9BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -152,6 +154,10 @@ Global
 		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC540D7D-52D4-485C-88F8-1666C282D9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC540D7D-52D4-485C-88F8-1666C282D9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC540D7D-52D4-485C-88F8-1666C282D9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC540D7D-52D4-485C-88F8-1666C282D9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
