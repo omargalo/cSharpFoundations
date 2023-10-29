@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{98A51478-7670-4EE6-AA8C-AB423A6A49E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFEvents", "WPFEvents\WPFEvents.csproj", "{C8D06472-0AC5-4CA9-B832-CCB0BE484874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -146,6 +148,10 @@ Global
 		{98A51478-7670-4EE6-AA8C-AB423A6A49E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A51478-7670-4EE6-AA8C-AB423A6A49E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A51478-7670-4EE6-AA8C-AB423A6A49E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D06472-0AC5-4CA9-B832-CCB0BE484874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
